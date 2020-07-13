@@ -55,3 +55,43 @@ Tabel Fans Blackpink
 ```
 
 Untuk contoh output di atas, bisa berbeda `header` nya yah !
+
+## Release 4: One Method - Many Meanings !
+Buatlah:
+- Pada class `Fans` sebuah method dengan nama `cekPengeluaran`, yang
+  nantinya akan menampilkan tulisan `General - Expense : <Jumlah Pengeluaran>`
+- Pada class `FansBlackpink` sebuah method dengan nama `cekPengeluaran`,
+  yang nantinya akan menampilkan tulisan 
+  `Blacpink - Expense : <Jumlah Pengeluaran>`
+- Pada class `FansIU` sebuah method dengan nama `cekPengeluaran`,
+  yang nantinya akan menampilkan tulisan
+  `IU - Pengeluaran : <Jumlah Pengeluaran>`
+- Pada class `FansTwice` sebuah method dengan nama `cekPengeluaran`,
+  yang nantinya akan menampilkan tulisan
+  `Twice - <Nama Orang> : <Jumlah Pengeluaran>`
+- Pada class `FansAKB48` sebuah method dengan nama `cekPengeluaran`,
+  yang nantinya akan menampilkan tulisan
+  `AKB48 - <Email> : <Jumlah Pengeluaran>`
+- Pada class `FansJKT48` sebuah method dengan nama `cekPengeluaran`,
+  yang nantinya akan menampilkan tulisan
+  `JKT48 - <Nama> - <Email> : <Jumlah Pengeluaran>`
+
+berikut juga diberikan driver code yang akan digunakan:
+
+```javascript
+// File: index.js
+
+FansFactory.createFans(
+  'iu', 
+  'halu', 
+  'halu@halusinasi.com',
+  150000000
+).cekPengeluaran();
+
+FansFactory.createFans(
+  'blackpink', 
+  'mimpi', 
+  'mimpi@mimpi.com',
+  2000000
+).cekPengeluaran();
+```
