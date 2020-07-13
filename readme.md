@@ -3,10 +3,10 @@
 Sekarang kita akan membuat sebuah aplikasi untuk membaca data fans Pop
 garis keras nih !
 
-Dengan diberikan sebuah data bernama `pop.csv`, maka kita akan:
+Dengan diberikan sebuah data bernama `fans.csv`, maka kita akan:
 
 ## Release 1: Buat class
-Cobalah untuk membaca file `pop.csv` dan berdasarkan file tersebut, buatlah
+Cobalah untuk membaca file `fans.csv` dan berdasarkan file tersebut, buatlah
 5 buah class yang akan me-representasikan data yang akan digunakan:
 - Fans
 - FansBlackpink
