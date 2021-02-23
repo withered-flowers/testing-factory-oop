@@ -1,0 +1,44 @@
+[
+  {
+    "fans": "iu",
+    "nama": "Wangi",
+    "email": "wangi@gmail.com",
+    "pengeluaran": 30000
+  },
+  {
+    "fans": "blackping",
+    "nama": "melati",
+    "email": "melati@gmail.com",
+    "pengeluaran": 300000
+  },
+  {
+    "fans": "twice",
+    "nama": "tedjo",
+    "email": "tedjo@yahoo.com",
+    "pengeluaran": 1500000
+  },
+  {
+    "fans": "akb48",
+    "nama": "Nathan",
+    "email": "nathan@aol.com",
+    "pengeluaran": 30000
+  },
+  {
+    "fans": "jkt48",
+    "nama": "Handoko",
+    "email": "handoko@outlook.com",
+    "pengeluaran": 200000
+  },
+  {
+    "fans": "iu",
+    "nama": "Bambang",
+    "email": "Bambang@aol.com",
+    "pengeluaran": 5000000
+  },
+  {
+    "fans": "blackpink",
+    "nama": "Erlina",
+    "email": "erlina@coba.com",
+    "pengeluaran": 150000
+  }
+]
